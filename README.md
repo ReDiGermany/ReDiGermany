@@ -1,16 +1,15 @@
-### Hi there 👋
+<a href="https://www.enji.dev/work/contact">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReDiGermany/ReDiGermany/main/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReDiGermany/ReDiGermany/main/header.svg" />
+    <img alt="Max Kruggel | Computer Science Student - Developer - Hobby Gamer" src="https://raw.githubusercontent.com/ReDiGermany/ReDiGermany/main/header.svg" width="100%" />
+  </picture>
+</a>
 
-<!--
-**ReDiGermany/ReDiGermany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<header>
+  <div align="right">
+    <a href="https://github.com/enjidev">
+      &copy; enjidev
+    </a>
+  </div>
+</header>
