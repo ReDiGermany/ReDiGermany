@@ -1,4 +1,4 @@
-<a href="https://www.enji.dev/work/contact">
+<a href="https://redigermany.de">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReDiGermany/ReDiGermany/main/header-dark.svg?t=1">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReDiGermany/ReDiGermany/main/header.svg?t=1" />
