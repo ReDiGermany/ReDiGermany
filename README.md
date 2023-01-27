@@ -1,8 +1,8 @@
 <a href="https://www.enji.dev/work/contact">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReDiGermany/ReDiGermany/main/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReDiGermany/ReDiGermany/main/header.svg" />
-    <img alt="Max Kruggel | Computer Science Student - Developer - Hobby Gamer" src="https://raw.githubusercontent.com/ReDiGermany/ReDiGermany/main/header.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReDiGermany/ReDiGermany/main/header-dark.svg?t=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReDiGermany/ReDiGermany/main/header.svg?t=1" />
+    <img alt="Max Kruggel | Computer Science Student - Developer - Hobby Gamer" src="https://raw.githubusercontent.com/ReDiGermany/ReDiGermany/main/header.svg?t=1" width="100%" />
   </picture>
 </a>
 
