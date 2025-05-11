@@ -141,12 +141,12 @@
       <text text-anchor="middle" x="448" y="150" class="me-text">
         I'm Max
         <tspan class="me-text-hl">ReDiGermany</tspan>
-        Kruggel
+        Bernreuther
       </text>
     </g>
     <g class="animate-fade-in-bottom description">
       <text text-anchor="middle" x="448" y="190" class="about-text">
-        Computer Science Student - Developer - Hobby Gamer
+        Robotics Developer - Hobby Gamer
       </text>
     </g>
 
